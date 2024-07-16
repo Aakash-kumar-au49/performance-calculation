@@ -1,0 +1,8 @@
+﻿#,Project,Tracker,Parent task,Parent task subject,Status,Priority,Subject,Author,Assignee,Updated,Category,Target version,Start date,Due date,Estimated time,Total estimated time,% Done,Created,Closed,Last updated by,Related issues,Files,Work_Location,Leave,week_off,Types_of_work,Private,Description
+44570,Do-or-Die,Emp-tracker-2,"","",Resolved,Priority2,working on script,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/07/2024 11:47 PM,"","",10/07/2024,12/07/2024,"",0.00,0,08/07/2024 11:45 PM,"",Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"i have done troubleshooting of ssh key gen 
+
+Now i am correcting my script so that failover can be done by pgpool.
+
+It gave me an error for not going inside the slave vm.
+
+exploring script of failover how pgpool works by failover script."

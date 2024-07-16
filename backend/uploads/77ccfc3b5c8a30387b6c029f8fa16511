@@ -1,0 +1,143 @@
+﻿#,Project,Tracker,Parent task,Parent task subject,Status,Priority,Subject,Author,Assignee,Updated,Category,Target version,Start date,Due date,Estimated time,Total estimated time,% Done,Created,Closed,Last updated by,Related issues,Files,Work_Location,Leave,week_off,Types_of_work,Private,Description
+44921,Do-or-Die,Emp-tracker-2,44570,working on script,Closed,Priority2,exploring how script will work in pgpool case.,Reetu Pal CF2023120103,Reetu Pal CF2023120103,12/07/2024 10:46 PM,"","",10/07/2024,12/07/2024,"","",0,10/07/2024 11:47 PM,12/07/2024 10:46 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Issues,No,working on the same
+44570,Do-or-Die,Emp-tracker-2,"","",Resolved,Priority2,working on script,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/07/2024 11:47 PM,"","",10/07/2024,12/07/2024,"",0.00,0,08/07/2024 11:45 PM,"",Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"i have done troubleshooting of ssh key gen 
+
+Now i am correcting my script so that failover can be done by pgpool.
+
+It gave me an error for not going inside the slave vm.
+
+exploring script of failover how pgpool works by failover script."
+44219,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Installed postgresql on local ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,08/07/2024 11:44 PM,"","",06/07/2024,07/07/2024,"","",0,06/07/2024 12:55 AM,08/07/2024 11:44 PM,Reetu Pal CF2023120103,"",clipboard-202407062323-jhyel.png,Working FROM Office,"","",Issues,No,"i have installed postgresql on local then setup master slave replication .
+
+I have made connection of pgpool after troubleshooting again and again.
+
+"
+43421,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Installing pgpool ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,04/07/2024 11:36 PM,"","",01/07/2024,04/07/2024,"","",0,01/07/2024 11:30 PM,04/07/2024 11:36 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"I am trying to innstall but showing me an errror.
+
+installed pgpoolon ubuntu machine locallly."
+43166,Do-or-Die,Emp-tracker-2,42287,Blackbox exporter for url ,Closed,Priority2,working on alert manager,Reetu Pal CF2023120103,Reetu Pal CF2023120103,30/06/2024 11:55 PM,"","",29/06/2024,30/06/2024,"","",0,29/06/2024 11:02 PM,30/06/2024 11:55 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,alertmanger is configured but not getting mail and alerts.
+42853,Do-or-Die,Emp-tracker-2,42287,Blackbox exporter for url ,Closed,Priority2,node-exporter in both vms,Reetu Pal CF2023120103,Reetu Pal CF2023120103,28/06/2024 11:35 PM,"","",27/06/2024,28/06/2024,"","",0,28/06/2024 12:00 AM,28/06/2024 11:35 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,I have setup node exporter on both vms.
+42475,Do-or-Die,Emp-tracker-2,42287,Blackbox exporter for url ,Closed,Priority2,configure url in blackbox exporter ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,27/06/2024 11:59 PM,"","",25/06/2024,29/06/2024,"","",0,25/06/2024 10:20 PM,27/06/2024 11:59 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"i can see metrices 
+
+
+I have made dashboard on grafana also.
+
+I have setup all monitoring tool ."
+42474,Do-or-Die,Emp-tracker-2,42287,Blackbox exporter for url ,Closed,Priority2,configure url in blackbox exporter ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,27/06/2024 11:58 PM,"","",25/06/2024,26/06/2024,"","",0,25/06/2024 10:20 PM,27/06/2024 11:58 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,i can see metrices 
+42287,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Blackbox exporter for url ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,30/06/2024 11:55 PM,"","",25/06/2024,30/06/2024,"",0.00,0,24/06/2024 10:39 PM,30/06/2024 11:55 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,i have to setup blackbox exporter for monitor my url.
+41729,Do-or-Die,Emp-tracker-2,"","",Closed,Priority1,monitoring tool for url,Reetu Pal CF2023120103,Reetu Pal CF2023120103,21/06/2024 11:23 PM,"","",19/06/2024,21/06/2024,"","",0,19/06/2024 11:28 PM,21/06/2024 11:23 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"I STARTED LEARN BASIC LINUX
+
+set permissions like uid sgid 
+
+I have setup grafana prometheus node exporter"
+41347,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Correcting test cases after review,Reetu Pal CF2023120103,Reetu Pal CF2023120103,18/06/2024 11:29 PM,"","",17/06/2024,18/06/2024,"","",0,17/06/2024 11:33 PM,18/06/2024 11:29 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"I got some changes to do.
+
+I have made changes in test cases."
+40882,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,revising my topics again,Reetu Pal CF2023120103,Reetu Pal CF2023120103,15/06/2024 11:41 PM,"","",13/06/2024,15/06/2024,"","",0,13/06/2024 11:30 PM,15/06/2024 11:41 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"Apache, haproxy, ssl, postgres, crontab, script 
+
+Again whole process i have done today."
+40519,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Need for improvment in test cases,Reetu Pal CF2023120103,Reetu Pal CF2023120103,14/06/2024 11:05 PM,"","",11/06/2024,14/06/2024,"","",0,11/06/2024 10:03 PM,14/06/2024 11:05 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"working.
+
+Improving testcases according to rashmi mam.
+
+
+I will complete till tommorrow.
+
+"
+40071,Do-or-Die,Emp-tracker-2,38059,Trying to  install pgpool  on base .,Closed,Priority2,cronjob,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/06/2024 11:34 PM,"","",07/06/2024,10/06/2024,"","",0,07/06/2024 11:32 PM,10/06/2024 11:34 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"for running script automatically.
+
+writing a script so that my slave which is now master i can do rollback for not doing process again and again.
+
+finally completed task"
+39701,Do-or-Die,Emp-tracker-2,38059,Trying to  install pgpool  on base .,Closed,Priority2,create script and use by manual,Reetu Pal CF2023120103,Reetu Pal CF2023120103,07/06/2024 11:30 PM,"","",05/06/2024,07/06/2024,"","",0,05/06/2024 11:54 PM,07/06/2024 11:30 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Issues,No,"i have made script and used cronjob for automated slave become as master.
+
+Used crontab but not understanding yet...."
+38300,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Approach paper,Reetu Pal CF2023120103,Reetu Pal CF2023120103,29/05/2024 04:10 AM,"","",27/05/2024,28/05/2024,"","",0,27/05/2024 11:56 PM,29/05/2024 04:10 AM,Reetu Pal CF2023120103,"",Approach paper.pdf,Working FROM Office,"","",Task,No,"I have made it
+
+I have upload on redmine."
+38059,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Trying to  install pgpool  on base .,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/06/2024 11:34 PM,"","",05/06/2024,10/06/2024,"",0.00,0,25/05/2024 11:13 PM,10/06/2024 11:34 PM,Reetu Pal CF2023120103,Copied from #37927,"",Working FROM Office,"","",Task,No,"Created a new vm of centos.
+
+pgpool installed successfully.
+
+doing configuration.
+
+Generate haproxy logs which i did not get earlier.
+
+I made approach paper in new format.
+
+Still working on it........
+
+still working on pgpool configuration but not get result.
+
+
+
+"
+37927,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,pgpool on container,Reetu Pal CF2023120103,Reetu Pal CF2023120103,27/05/2024 11:44 PM,"","",24/05/2024,26/05/2024,"","",0,24/05/2024 10:55 PM,27/05/2024 11:44 PM,Reetu Pal CF2023120103,Copied to #38059,"",Working FROM Office,"","",Task,No,working on it. i tried alot of time but i have to promote slave as master bymanual.
+37564,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Updated Test cases,Reetu Pal CF2023120103,Reetu Pal CF2023120103,28/05/2024 03:17 PM,"","",22/05/2024,23/05/2024,"","",0,22/05/2024 09:22 PM,23/05/2024 09:58 PM,Reetu Pal CF2023120103,"",Test.pdf,Working FROM Office,"","",Task,No,I  will upload the updated test cases.
+37455,Do-or-Die,Emp-tracker-2,37028,Unable to do (slave become as master by pgpool.,Closed,Priority2,promote slave to master by using pgpool.,Reetu Pal CF2023120103,Reetu Pal CF2023120103,23/05/2024 10:00 PM,"","",22/05/2024,23/05/2024,"","",0,22/05/2024 10:27 AM,23/05/2024 10:00 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Issues,No,"Working...
+
+i am working on it ......
+
+I have tried alot but still i have to promote slave as master by manual."
+37028,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Unable to do (slave become as master by pgpool.,Reetu Pal CF2023120103,Reetu Pal CF2023120103,23/05/2024 11:24 PM,"","",22/05/2024,23/05/2024,"",0.00,0,20/05/2024 12:08 AM,23/05/2024 11:24 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"https://www.mydbops.com/blog/pgpool-ii-installation-and-configuration-part-i/
+
+working on pgpool nodes how my slave will become as master
+
+Unable to do pgpool concept "
+36689,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Install haproxy on third machine,Reetu Pal CF2023120103,Reetu Pal CF2023120103,18/05/2024 10:58 PM,"","",16/05/2024,18/05/2024,"","",0,16/05/2024 11:31 PM,18/05/2024 10:58 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"Installing haproxy on third machine and configure for monitor both apache server where application runs.
+
+successfully setting up.
+
+"
+35931,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Configure Haproxy ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,15/05/2024 10:44 PM,"","",13/05/2024,15/05/2024,"","",0,13/05/2024 10:26 AM,15/05/2024 10:43 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"Haproxy configuration and deploy apache application.'
+
+I am working on installing and configure haproxy in both machines."
+35730,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,SSL certificate,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/05/2024 10:56 PM,"","",10/05/2024,10/05/2024,"","",0,10/05/2024 10:56 PM,10/05/2024 10:56 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,Created ssl certificate and deploy on my application.
+35009,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,configuration for pgpool,Reetu Pal CF2023120103,Reetu Pal CF2023120103,13/05/2024 10:25 AM,"","",07/05/2024,12/05/2024,"","",0,06/05/2024 11:31 PM,13/05/2024 10:25 AM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"
+pgpool config- setting up pgpool installation and config for promotiong after disaster slave should be master.
+
+Setting up pg -pool container on rhel.
+
+Configure pg-pool .
+
+I have configured pgpool successfully.
+
+
+NOw i am trying to connect pgpool with application.
+"
+34789,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,Give review of whole task,Reetu Pal CF2023120103,Reetu Pal CF2023120103,04/05/2024 10:41 PM,"","",04/05/2024,04/05/2024,"","",0,04/05/2024 10:40 PM,04/05/2024 10:41 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Meeting,No,Meeting with Harsh sir.
+34427,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,learn claasses of ip's,Reetu Pal CF2023120103,Reetu Pal CF2023120103,06/05/2024 11:27 PM,"","",02/05/2024,05/05/2024,"","",0,02/05/2024 10:42 PM,06/05/2024 11:27 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"i have  learn about A,B,C,D class of ip.
+
+study about subnetting , router, hub , bridges.
+
+unable to make communication in two vms."
+32319,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Creating common bridge for communication,Reetu Pal CF2023120103,Reetu Pal CF2023120103,06/05/2024 11:32 PM,"","",01/05/2024,06/05/2024,"","",0,18/04/2024 11:45 PM,06/05/2024 11:32 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No," configured for performance in both the primary data center (DC) and disaster recovery (DR) environments, to a high load or stress test, the expected result is for the system to maintain acceptable response times and throughput levels. It should handle high loads without significant degradation in performance.
+
+
+Created two vms 172.16.0.180 and 172.16.0.253 now they are communicate with each other."
+32316,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2, Learning basic Networking ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,06/05/2024 12:28 AM,"","",26/04/2024,04/05/2024,"","",0,18/04/2024 11:43 PM,06/05/2024 12:28 AM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Issues,No,"I solved my error which was that my application was not working on localhost.
+then i solved this then i got database error data was not inserting in database.
+This issue resolved by kunal sir.
+
+
+I have made wrong subnet of 11.0.0.1/24 and then made vm on this it was wrong.I will work on this
+
+
+"
+32314,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Disaster recovery setup,Reetu Pal CF2023120103,Reetu Pal CF2023120103,25/04/2024 09:34 PM,"","",19/04/2024,25/04/2024,"","",0,18/04/2024 11:40 PM,25/04/2024 09:34 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"Created 2 bridge one for 10.0.0.0 and second for 11.0.0.0.
+
+Also created two vm with these bridges.
+
+I have configured aaplication and database."
+32057,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,replication on localpostgres server,Reetu Pal CF2023120103,Reetu Pal CF2023120103,18/04/2024 11:35 PM,"","",17/04/2024,18/04/2024,"","",0,17/04/2024 10:52 PM,18/04/2024 11:35 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,I am working on replication on two machines.
+31697,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Deploy application on apache,Reetu Pal CF2023120103,Reetu Pal CF2023120103,16/04/2024 10:17 PM,"","",15/04/2024,16/04/2024,"","",0,16/04/2024 10:59 AM,16/04/2024 10:17 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"
+
+https://docs.google.com/document/d/1zn0RRkjvGytO8xW-333XRfwQz_4jhgnHwos7o5IvbUY/edit?usp=sharing"
+29523,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,Connect database with application,Reetu Pal CF2023120103,Reetu Pal CF2023120103,12/04/2024 12:49 PM,"","",11/04/2024,13/04/2024,"","",0,05/04/2024 10:39 AM,12/04/2024 12:47 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"I have successfully connected my database with application on both environment.
+"
+29522,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority3,Create application  ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,09/04/2024 10:33 PM,"","",09/04/2024,09/04/2024,"","",0,05/04/2024 10:36 AM,09/04/2024 10:33 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,I have created an application on javascript.
+29521,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority2,network diagram for dc/dr ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,08/04/2024 10:22 PM,"","",06/04/2024,08/04/2024,"","",0,05/04/2024 10:35 AM,08/04/2024 10:22 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,I have created  dc/dr network diagram on draw.io
+29520,Do-or-Die,Emp-tracker-2,29518,WBS of DC/DR task,Closed,Priority1,Test Cases of DC/DR task,Reetu Pal CF2023120103,Reetu Pal CF2023120103,21/04/2024 09:23 PM,"","",05/04/2024,05/04/2024,"","",0,05/04/2024 10:29 AM,05/04/2024 10:58 PM,Reetu Pal CF2023120103,"",TEST CASES.pdf,Working FROM Office,"","",Task,No,I have submitted test cases.
+29518,Do-or-Die,Emp-tracker-2,"","",Closed,Priority2,WBS of DC/DR task,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/06/2024 11:35 PM,"","",05/04/2024,10/06/2024,"",0.00,0,05/04/2024 10:24 AM,10/06/2024 11:35 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,Complete task
+29444,Do-or-Die,Emp-tracker-2,"","",Closed,Priority1,clarification on doubts ,Reetu Pal CF2023120103,Reetu Pal CF2023120103,04/04/2024 10:49 PM,"","",04/04/2024,04/04/2024,"","",0,04/04/2024 10:49 PM,04/04/2024 10:49 PM,Reetu Pal CF2023120103,"","",Working FROM Office,"","",Task,No,"1. How to make connection between DC and DR.
+2. replication on both DC and DR."

@@ -4,9 +4,13 @@ const path = require('path');
 const { spawn } = require('child_process');
 const fs = require('fs');
 const csv = require('csv-parser');
+const cors = require('cors'); // Import the cors package
 
 const app = express();
 const port = 8002;
+
+// Use the cors middleware
+app.use(cors());
 
 const upload = multer({ dest: path.join(__dirname, 'uploads') });
 

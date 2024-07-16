@@ -1,0 +1,28 @@
+﻿#,Project,Tracker,Parent task,Parent task subject,Status,Priority,Subject,Author,Assignee,Updated,Category,Target version,Start date,Due date,Estimated time,Total estimated time,Spent time,Total spent time,% Done,Created,Closed,Last updated by,Related issues,Files,Issue Start Date,Issue End Date,Work_Location,Leave,week_off,Types_of_work,Issue Category ,Server Environment ,Private,Description
+44570,Do-or-Die,Emp-tracker-2,"","",Resolved,Priority2,working on script,Reetu Pal CF2023120103,Reetu Pal CF2023120103,10/07/2024 11:47 PM,"","",10/07/2024,12/07/2024,"",0.00,0.00,0.00,0,08/07/2024 11:45 PM,"",Reetu Pal CF2023120103,"","","","",Working FROM Office,"","",Task,"","",No,"i have done troubleshooting of ssh key gen 
+
+Now i am correcting my script so that failover can be done by pgpool.
+
+It gave me an error for not going inside the slave vm.
+
+exploring script of failover how pgpool works by failover script."
+101,Interns,Intern-Issue-Tracker,"","",New,Priority3,Task-3 E-Certificate,Reetu Pal CF2023120103,Reetu Pal CF2023120103,25/07/2023 10:20 AM,"","",23/07/2023,02/08/2023,"","",0.00,0.00,0,25/07/2023 10:20 AM,"","","","","","","","","","","","",No,"n e-Certificate has security features that prevent fraudulent duplication or tampering. This may include: Unique Certificate ID or Serial Number, QR Code or Verification URL. It could have an authenticity Seal that signifies the certificate's validity and official status.
+
+The e-certificate must have the following:
+(a) FL Logo
+(b) Certificate of Professionalism (Certified IT Professional)
+(c) Our 6 Key Attributes 
+(d) Name of the Intern
+(e) Dates/ Duration
+(f) a digitally assigned serial number.
+
+"
+100,Interns,Intern-Issue-Tracker,98,subtask-3Birthday Reminder,New,Priority2,subtask-4 Birthday Reminder,Reetu Pal CF2023120103,Reetu Pal CF2023120103,25/07/2023 10:15 AM,"","",31/07/2023,01/08/2023,"","",0.00,0.00,0,25/07/2023 10:15 AM,"","","","","","","","","","","","",No,Recheck and submit
+98,Interns,Intern-Issue-Tracker,94,Task-2 Birthday Reminder,New,Priority2,subtask-3Birthday Reminder,Reetu Pal CF2023120103,Reetu Pal CF2023120103,25/07/2023 10:15 AM,"","",31/07/2023,01/08/2023,"",0.00,0.00,0.00,0,24/07/2023 11:37 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Apply javascript in google sheet.
+97,Interns,Intern-Issue-Tracker,94,Task-2 Birthday Reminder,New,Priority2,Subtask-2 Birthday reminder,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 11:39 AM,"","",27/07/2023,29/07/2023,"","",0.00,0.00,0,24/07/2023 11:34 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Learn how to run javascript in google sheet
+95,Interns,Intern-Issue-Tracker,94,Task-2 Birthday Reminder,New,Priority2,Subtask-1 Birthday reminder,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 11:40 AM,"","",24/07/2023,26/07/2023,"","",0.00,0.00,0,24/07/2023 10:06 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Study about javascript
+94,Interns,Intern-Issue-Tracker,"","",New,Priority2,Task-2 Birthday Reminder,Reetu Pal CF2023120103,Reetu Pal CF2023120103,25/07/2023 10:15 AM,"","",24/07/2023,01/08/2023,"",0.00,0.00,0.00,0,24/07/2023 10:04 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Create a reminder by using javascript in google sheet.
+83,Interns,Intern-Issue-Tracker,80,Task -1 Rabindranath Tagore,New,Priority1,subtask-3  Create a page using impress.js,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 09:33 AM,"","",28/07/2023,29/07/2023,"","",0.00,0.00,0,24/07/2023 09:33 AM,"","","","","","","","","","","","",No,""
+82,Interns,Intern-Issue-Tracker,80,Task -1 Rabindranath Tagore,New,Priority1,subtask-2 learn code of html/css/javascript,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 09:31 AM,"","",25/07/2023,28/07/2023,"","",0.00,0.00,0,24/07/2023 09:31 AM,"","","","","","","","","","","","",No,""
+81,Interns,Intern-Issue-Tracker,80,Task -1 Rabindranath Tagore,Inprogress,Priority1,subtask -1 Rabindranath tagore,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 11:45 AM,"","",24/07/2023,24/07/2023,"","",0.00,0.00,0,24/07/2023 09:29 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Study about impress.js
+80,Interns,Intern-Issue-Tracker,"","",Inprogress,Priority1,Task -1 Rabindranath Tagore,Reetu Pal CF2023120103,Reetu Pal CF2023120103,24/07/2023 09:33 AM,"","",24/07/2023,29/07/2023,"",0.00,0.00,0.00,0,24/07/2023 09:27 AM,"",Reetu Pal CF2023120103,"","","","","","","","","","",No,Present biography of Rabindranath tagore.
